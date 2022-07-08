@@ -115,12 +115,14 @@ html{
     border-radius: 28px;
     background: #f2f2f2;
     margin-bottom: 20px;
+    
 }
 
 #services .box img{ 
    height: 160px;
    margin: auto;
    display: block;
+   
 }
 
 #services .box p{
